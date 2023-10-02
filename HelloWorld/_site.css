@@ -1,0 +1,17 @@
+body    { background-image: url(images/webbackground.jpg); }
+.tablemain { border: 5px groove #000; border-radius: 25px;  }  
+.tmenu { background-color: #fff; border: 1px solid #000; font-variant: small-caps; }
+.tmenusel { color: #fff; background-color: #fff; border: 1px solid #000; font-variant: small-caps; }
+a:link    { color: #000; text-decoration: none; background: #fff; display: block; padding: 2px 10px; }
+a:visited { color: #000; text-decoration: none; background: #fff; display: block; padding: 2px 10px; }
+a:hover   { color: #fff; text-decoration: none; background: #147349; display: block; padding: 2px 10px; }
+a.norm:link      { color: #00f;  text-decoration: underline;  display: inline; background: none;}
+a.norm:visited { color: #00f;  text-decoration: underline; display: inline; background: none;}
+a.norm:hover   { color: #f00;  text-decoration: underline; display: inline; background: none;}
+
+.table1	       { border: 5px groove #000; }
+a.none:link    { color: #000;  text-decoration: none;  display: inline; background: none;}
+a.none:visited { color: #000;  text-decoration: none; display: inline; background: none;}
+a.none:hover   { color: #000;  text-decoration: none; display: inline; background: none;}
+
+.fblogo { border: none; width: 25px; }
